@@ -1,0 +1,25 @@
+{
+  "name": "easydo",
+  "version": "1.0.0",
+  "description": "前端开发手脚架",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-less": "^3.0.5",
+    "gulp": "^3.9.0",
+    "require-dir": "^0.3.0",
+    "gulp-watch": "^4.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaAIxhy/easydo.git"
+  },
+  "author": "xiehaiyang",
+  "bugs": {
+    "url": "https://github.com/MetaAIxhy/easydo/issues"
+  },
+  "homepage": "https://github.com/MetaAIxhy/easydo#readme"
+}
