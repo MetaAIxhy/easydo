@@ -8,5 +8,9 @@ module.exports = {
         build: build + "/css", //输出目录
         settings: {
         }
+    },
+    browser_sync: {
+        root: './',
+        watch: ['./src/html/*.html', './build/css/*.css']
     }
-}
+};

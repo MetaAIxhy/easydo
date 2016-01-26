@@ -9,7 +9,10 @@
     "require-dir": "^0.3.0",
     "gulp-watch": "^4.3.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
